@@ -1,0 +1,39 @@
+Date:,01/03/2024 16:43,,,,,,,
+Tool:,,,,,,,,
+Generator:,,,,,,,,
+Component Count:,,,108,,,,,
+Ref,Mouser Number,5 Qty,Qty,,Value,Cmp name,Footprint,Description
+,,,,,,,,
+"C1, C2, C3, C5, C8, C10, C13, C14, C15, C20, C21, C22",80-C0805C183K2RACTU,60,12,,18nF,C0805C183K2RACTU,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,"Unpolarized capacitor, small symbol"
+"C4, C11, C16, C17, C18",80-C0805C104M5RAC,25,5,,0.1uF,C0805C104M5RAC,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,"Unpolarized capacitor, small symbol"
+C6,710-865090340001,5,1,,10 uF,8.6509E+11,SamacSys_Parts:CAPAE430X550N,"Wurth Elektronik 4.7uF 16 V dc Aluminium Electrolytic Capacitor, WCAP-ASLU Series 1000h 5.5 (Dia.) x 3.85mm"
+"C7, C9, C19, C23, C26, C29",80-C0805C104M5RAC,30,6,,100nF,C0805C104M5RAC,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,"Unpolarized capacitor, small symbol"
+C12,710-865090340001,5,1,,4.7 uF,8.6509E+11,SamacSys_Parts:CAPAE430X550N,"Wurth Elektronik 4.7uF 16 V dc Aluminium Electrolytic Capacitor, WCAP-ASLU Series 1000h 5.5 (Dia.) x 3.85mm"
+"C24, C25",710-865080442004,10,2,,22uF,8.6508E+11,CAPAE530X550N,Wurth Elektronik 68uF Electrolytic Capacitor 6.3V dc Surface Mount - 865080442004
+"C27, C28",710-865080553014,10,2,,220uF,8.65081E+11,CAPAE830X1050N,"Wurth Elektronik 220uF 35 V dc Aluminium Electrolytic Capacitor, WCAP-ASLI Series 2000h 8 (Dia.) x 10.35mm"
+D1,621-1N5819HW-F,5,1,,1N5819HW-7-F,1N5819HW-7-F,SOD3716X145N,"Diode Schottky 1A 40V SOD123 Diodes Inc 1N5819HW-7-F, SMT Schottky Diode, 40V 1A, 2-Pin SOD-123"
+D2,621-BAT760-7,5,1,,BAT760-7,BAT760-7,SOD2513X120N,"Diode Schottky 30V 1A 2Pin SOD323 Diodes Inc BAT760-7, SMT Schottky Diode, 30V 1A, 2-Pin SOD-323"
+"D3, D4, D5",576-SZSMF4L5.0AT3G,15,3,,SZSMF4L5.0AT3G,SZSMF4L5.0AT3G,SODFL3824X140N,Automotive Surface Mount 400 W TVS Diode in SOD-123FL
+D6,621-B140HW-7,5,1,,B140HW-7,B140HW-7,SOD3716X145N,"Diodes Inc B140HW-7, SMT Schottky Diode, 40V 1A, 2-Pin SOD-123"
+IC1,556-ATM90E32AS-AU-R,5,1,,ATM90E32AS-AU-R,ATM90E32AS-AU-R,ATM90E32AS-AU-R:QFP50P900X900X120-48N,
+IC2,513-NJM2882F33-TE1,5,1,,NJM2882F33-TE1,NJM2882F33-TE1,Package_TO_SOT_SMD:SOT-23-5,LDO Voltage Regulators 75dB 30uVrms 300mA 1.0uF 3.3V 350mW
+IC3,621-AP63203WU-7,5,1,,AP63203WU-7,AP63203WU-7,SOT95P280X100-6N,Switching Voltage Regulators DCDC Conv HV Buck TSOT26 T&R 3K
+"K1, K4",490-TB004-508-06BE,10,2,,Screw_Terminal_01x06,Screw_Terminal_01x06,TerminalBlock_RND:TerminalBlock_RND_205-00236_1x06_P5.08mm_Horizontal,"Generic screw terminal, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)"
+K2,523-GSB1C41110SSHR,5,1,,GSB1C41110SSHR,GSB1C41110SSHR,GSB1C41110SSHR,"USB2.0, Type C, Top mount, Center Height 1.63mm, Single Row Surface Mount"
+L1,652-SRN6028C-3R9M,5,1,,3.9uH,SRN6028C-3R9M,SRN6028C3R9M,"Ind,6.0x6.0x2.6mm,3.9uH+/-20%,3.3A,shd"
+"LED3, LED4, LED5, LED6",710-150080YS75000,20,4,,Yellow Led,150080YS75000,LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder,Light emitting diode
+MOD1,356-ESP32-S3WRM1N8R2,5,1,,ESP32-S3-WROOM-1,ESP32-S3-WROOM-1-N8R2,PCM_Espressif:ESP32-S3-WROOM-1,"2.4 GHz WiFi (802.11 b/g/n) and Bluetooth ® 5 (LE) module Built around ESP32S3 series of SoCs, Xtensa ® dualcore 32bit LX7 microprocessor Flash up to 16 MB, PSRAM up to 8 MB 36 GPIOs, rich set of peripherals Onboard PCB antenna"
+"R1, R4, R5, R8, R9, R12, R22, R23, R24, R25, R26, R36, R38",652-CHP0805FX1001ELF,65,13,,1k,R_US,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,"Resistor, US symbol"
+"R2, R3, R6, R7, R10, R11",755-SDR10EZPJ2R4,30,6,,2R4,R_US,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,"Resistor, US symbol"
+"R13, R14, R15",652-CHP0805FX1001ELF,15,3,,1K,R_US,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,"Resistor, US symbol"
+R16,652-CMP0805-FX-1002L,5,1,,10K,R_US,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,"Resistor, US symbol"
+"R17, R18, R19, R20, R21",652-CMP0805-FX-1002L,25,5,,10k,R_US,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,"Resistor, US symbol"
+"R27, R28, R29",652-CMP0805-FX-1003L,15,3,,100k,R_US,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,"Resistor, US symbol"
+"R30, R31",755-SDR10EZPJ472,10,2,,4.7k,R_US,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,"Resistor, US symbol"
+"R32, R33, R34, R35",660-RK73H2ATTD80R6F,20,4,,80R,R_US,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,"Resistor, US symbol"
+R37,71-RCS08050000Z0EA,5,1,,0R,R_US,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,"Resistor, US symbol"
+"S1, S2",611-PTS526SM15SMTR2L,10,2,,PTS526_SM15_SMTR2_LFS,PTS526_SM15_SMTR2_LFS,PTS526SM15SMTR2LFS,"Tactile Switches 50mA 12VDC, 5.2x5.2mm, 1.5mm H, 160gf, G leads, No ground pin, metal actuator"
+X1,815-ABM8G-16.3-B4Y-T,5,1,,ABM8G-16.384MHZ-B4Y-T,ABM8G-16.384MHZ-B4Y-T,ABM8G,"16.384 MHz +/-30ppm Crystal 10pF 80 Ohms 4-SMD, No Lead"
+LED1,710-150080RS75000,5,1,,Red,150080RS75000,LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder,Light emitting diode
+LED2,710-150080GS75000,5,1,,Green Led,150080GS75000,,
+"LED 7, LED 8",710-150080RS75000,10,2,,Red Led,150080RS75000,,
