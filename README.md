@@ -19,7 +19,7 @@ The ESP32 Energy Meter utilizes the Espressif ESP32-S3 microcontroller and the A
 - `/hardware` - Electronic schematic files.
 - `/hardware` - PCB design files suitable for manufacturing.
 - `/src/ESPHome` - ESPHome YAML configuration files.
-- 
+
 ## Getting Started
 
 ### Prerequisites
