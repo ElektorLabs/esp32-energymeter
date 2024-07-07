@@ -65,7 +65,7 @@ sensor:
         id: VBC
       current:
         name: "CT2 Current"
-        id: ct3Amps
+        id: ct2Amps
       power:
         name: "Active Power CT2"
       reactive_power:
@@ -80,7 +80,7 @@ sensor:
         id: VCC
       current:
         name: " CT3 Current"
-        id: ct2Amps
+        id: ct3Amps
       power:
         name: "Active Power CT3"
       reactive_power:
