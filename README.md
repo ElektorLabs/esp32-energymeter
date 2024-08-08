@@ -24,11 +24,12 @@ The ESP32 Energy Meter utilizes the Espressif ESP32-S3 microcontroller and the A
 
 ### Prerequisites
 
-Ensure you have the following components :
+Components used in this project are mention in the BOM list `/hardware/production/BOM-esp32-energymeter-V2.xlsx`, overview of the components and required tools are as follows:
 - ESP32-S3 module
 - ATM90E32AS IC
-- Step-down transformer (220V AC to 12V AC)
-- Essential passive components (resistors, capacitors)
+- Step-down transformer (220V AC to 12V AC) - Preferably a bell transformer
+- Current Transfomers - YDHC SCT 013 100A 50mA
+- Passive components (resistors, capacitors)
 - Tools for PCB assembly and soldering
 
 ### Setup Instructions
