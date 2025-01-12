@@ -1,7 +1,7 @@
 
 #define DEBUG true  // Make this false if Serial Monitor is not required.
 
-#define WIFISSID "xxxx"
+#define WIFISSID "xxx"
 #define WIFIPASSWORD "xxxx"
 
 #define HOMEASSISTANT_IP "xxxx"
